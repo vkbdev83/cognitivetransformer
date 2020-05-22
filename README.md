@@ -1,5 +1,7 @@
 # cognitivetransformer
 
+Application leverages the Azure cognitive services to unlock the insights in the documents, images & video and save it to the Azure Blob storage. App reads the content info from the queues and process sequentially.
+
 To setup the Application , below properties should be updated under src/resource/application.properties
 
 #Temp directory to copy files
